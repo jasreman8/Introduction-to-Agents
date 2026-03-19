@@ -4,3 +4,5 @@ This repository explores the functionality of Generative AI agents, recognizes t
  - LangGraph Agents & Components
  - LangGraph Compositional Workflows
  - Creating a LangGraph-based Automated Test Generation using the GenAI workflow approach.
+
+Project 1: Built LangGraph agent with reasoning, tool use, and memory-backed conversation state
