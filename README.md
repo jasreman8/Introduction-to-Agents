@@ -8,3 +8,4 @@ This repository explores the functionality of Generative AI agents, identifies k
 # Project Summaries:
 - Project 1: Built LangGraph agent with reasoning, tool use, and memory-backed conversation state
 - Project 2: Built CrewAI research agent with reasoning, Tavily search tool, and memory
+- Project 3: Implemented LangGraph workflows with sequential, parallel, and conditional patterns
